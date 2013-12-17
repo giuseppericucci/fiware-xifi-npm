@@ -1,2 +1,2 @@
-FIWARE-fiware-monitoring-xifi-npm
+fiware-xifi-npm
 =================================
